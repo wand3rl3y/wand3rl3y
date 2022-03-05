@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://https://www.pexels.com/pt-br/foto/foto-de-close-up-da-mascara-de-guy-fawkes-685674/">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
