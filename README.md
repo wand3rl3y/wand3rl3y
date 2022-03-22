@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wand3rl3y
 - 👀 I’m interested in Programing in JS , PYTHON
 - 🌱 I’m currently learning JS ,PYTHON
-- 💞️ I’m looking to collaborate on JS projects 
+- 💞️ I’m looking to collaborate on JS and PYTHON projects 
 - 📫 How to reach me wand3rl3y@gmail.com
 
 <!---
