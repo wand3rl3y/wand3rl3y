@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </figure>
 
 <figure>
-    <img src="https://miro.medium.com/max/1400/1*18SPGkIHPuF9Ivtg_T4AUw.png"
+    <img src="https://miro.medium.com/max/1400/1*18SPGkIHPuF9Ivtg_T4AUw.png" , "https://github.com/anuraghazra/github-readme-stats"
          width="100" height="100"
          alt="Teste de imagen">
 </figure>
