@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wand3rl3y)](https://github.com/anuraghazra/github-readme-stats)
 <figure>
     <img src="https://github-readme-stats.vercel.app/api?username=wand3rl3y"
-         width="300" height="300"
+         width="500" height="500"
          alt="Teste de imagen">
 </figure>
 
