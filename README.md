@@ -11,4 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wand3rl3y)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Imagen para teste](<img src="drawing.jpg" alt="drawing" width="100"/>https://miro.medium.com/max/1400/1*18SPGkIHPuF9Ivtg_T4AUw.png)
+<figure>
+    <img src="https://miro.medium.com/max/1400/1*18SPGkIHPuF9Ivtg_T4AUw.png"
+         alt="Teste de imagen">
+    <figcaption>GitHub Teste.</figcaption>
+</figure>
+
