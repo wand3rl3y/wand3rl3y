@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wand3rl3y" width="500" title="hover text">
-  <img src="" width="500" >
+  <img src="https://miro.medium.com/max/1400/1*18SPGkIHPuF9Ivtg_T4AUw.png" width="300" >
 </p>
