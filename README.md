@@ -14,6 +14,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://miro.medium.com/max/1400/1*18SPGkIHPuF9Ivtg_T4AUw.png"
          width="100" height="100"
          alt="Teste de imagen">
-    <figcaption></figcaption>
 </figure>
 
